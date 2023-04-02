@@ -1,0 +1,10 @@
+.location{
+    border-bottom: 10px solid black;
+    padding-bottom: 10px;
+}
+
+.location:nth-of-type(1)
+{
+    border-top: 10px solid black;
+    padding-top: 10px;
+}
