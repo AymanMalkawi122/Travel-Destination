@@ -4,9 +4,9 @@ function Footer() {
   return (
     <footer>
       <div>
-        <a href=""><i class="fa-brands fa-facebook"></i></a>
-        <a href=""><i class="fa-brands fa-twitter"></i></a>
-        <a href=""><i class="fa-brands fa-linkedin"></i></a>
+        <a href=""><i className="fa-brands fa-facebook"></i></a>
+        <a href=""><i className="fa-brands fa-twitter"></i></a>
+        <a href=""><i className="fa-brands fa-linkedin"></i></a>
       </div>
 
       <div>
